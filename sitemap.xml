@@ -13,31 +13,6 @@
   </url>
   
   <url>
-    <loc>https://usmanmunara.github.io/tags/primer/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usmanmunara.github.io/posts/post-1/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usmanmunara.github.io/tags/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usmanmunara.github.io/tags/todo/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usmanmunara.github.io/posts/post-4/</loc>
-    <lastmod>2020-03-18T12:13:35+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://usmanmunara.github.io/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -49,7 +24,52 @@
   
   <url>
     <loc>https://usmanmunara.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/posts/post-8/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,6 +85,11 @@
   <url>
     <loc>https://usmanmunara.github.io/posts/post-6/</loc>
     <lastmod>2018-03-18T12:13:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/posts/post-4/</loc>
+    <lastmod>2018-03-18T12:13:35+05:30</lastmod>
   </url>
   
   <url>
@@ -88,7 +113,18 @@
   </url>
   
   <url>
-    <loc>https://usmanmunara.github.io/categories/</loc>
+    <loc>https://usmanmunara.github.io/tags/primer/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/posts/post-1/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usmanmunara.github.io/tags/todo/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url>
   
 </urlset>

@@ -23,24 +23,12 @@ GitHub Actions GitHub Actions is a CI/CD runtime for your GitHub repository. You
     </item>
     
     <item>
-      <title>Primer: When You Have Too Much to Do</title>
-      <link>https://usmanmunara.github.io/posts/post-1/</link>
-      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>https://usmanmunara.github.io/posts/post-8/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://usmanmunara.github.io/posts/post-1/</guid>
-      <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
-It all keeps piling up, and it can feel overwhelming.
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Traveling Ultralight</title>
-      <link>https://usmanmunara.github.io/posts/post-4/</link>
-      <pubDate>Wed, 18 Mar 2020 12:13:35 +0530</pubDate>
-      
-      <guid>https://usmanmunara.github.io/posts/post-4/</guid>
-      <description>I’m on a trip at the moment, and a friend who generously let me sleep on his couch looked at my small travel backpack and commented on how little I travel with: “That’s impressive,” he said.
-I was a little surprised, because though I’ve gotten that comment before, it’s become normal for me to travel with just a small bag (10 lbs. or less, usually), and I have friends who travel with even less.</description>
+      <guid>https://usmanmunara.github.io/posts/post-8/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,7 +37,9 @@ I was a little surprised, because though I’ve gotten that comment before, it�
       <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
       
       <guid>https://usmanmunara.github.io/posts/post-7/</guid>
-      <description>Here is how you can setup dark mode for Ink and test on various OS like iOS, Android, macOS and Windows 10.</description>
+      <description>You can set dark mode as default by setting params.mode to dark in config.toml or set it to auto which will detect based on your OS and switch to dark mode. For more details refer documentation
+Here is how you can switch based on your OS
+ iOS Android macOS Windows 10  </description>
     </item>
     
     <item>
@@ -73,6 +63,16 @@ Heading 1 Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et 
     </item>
     
     <item>
+      <title>Getting Started with Traveling Ultralight</title>
+      <link>https://usmanmunara.github.io/posts/post-4/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
+      
+      <guid>https://usmanmunara.github.io/posts/post-4/</guid>
+      <description>I’m on a trip at the moment, and a friend who generously let me sleep on his couch looked at my small travel backpack and commented on how little I travel with: “That’s impressive,” he said.
+I was a little surprised, because though I’ve gotten that comment before, it’s become normal for me to travel with just a small bag (10 lbs. or less, usually), and I have friends who travel with even less.</description>
+    </item>
+    
+    <item>
       <title>How I Learned to Stop Procrastinating, &amp; Love Letting Go</title>
       <link>https://usmanmunara.github.io/posts/post-3/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
@@ -93,6 +93,17 @@ Until I didn’t. It turns out procrastinating caused me to miss deadlines, over
 We are afraid of empty space in our lives.
 The result is often a continual busyness, constant distraction and avoidance, lack of focus, lack of satisfaction with our lives.
 We run from silence. We run from the spaces between tasks and appointments. We run from solitude and stillness.</description>
+    </item>
+    
+    <item>
+      <title>Primer: When You Have Too Much to Do</title>
+      <link>https://usmanmunara.github.io/posts/post-1/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://usmanmunara.github.io/posts/post-1/</guid>
+      <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+It all keeps piling up, and it can feel overwhelming.
+How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
     </item>
     
   </channel>
