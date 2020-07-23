@@ -7,28 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Usman</copyright>
-    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://usmanmunara.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Quantum</title>
-      <link>https://usmanmunara.github.io/tags/quantum/</link>
-      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usmanmunara.github.io/tags/quantum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>QuTip</title>
-      <link>https://usmanmunara.github.io/tags/qutip/</link>
-      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usmanmunara.github.io/tags/qutip/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
