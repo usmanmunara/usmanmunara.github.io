@@ -39,7 +39,8 @@ While I have taken the first step and commenced this journey, the real obstacle 
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usmanmunara.github.io/cupacoffee/</guid>
-      <description>I am always up for a coffee in HK, so drop me an email or reach out on twitter(https://twitter.com/usmanmunara) if you are interested.</description>
+      <description>I am always up for a coffee in HK, so drop me an email or reach out on twitter if you are interested.
+.Say-Contact--wrapper {text-align: center;}.Say-Contact {margin: 26px 0 26px 0;cursor: pointer;display: inline-flex;align-items: center;justify-content: center;padding: 5px 10px 5px 10px;border-bottom: 3px solid #ff0000;border-radius: 4px;box-shadow: 0 4px 6px 5px rgba(2, 2, 2, 0.11), 0 1px 3px rgba(0, 0, 0, 0.</description>
     </item>
     
   </channel>
