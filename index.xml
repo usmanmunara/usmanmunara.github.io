@@ -15,12 +15,22 @@
     <item>
       <title>Another blog</title>
       <link>https://usmanmunara.github.io/posts/anotherblog/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usmanmunara.github.io/posts/anotherblog/</guid>
       <description>Hello,
 Aah so here we are. I think I have finally mustered the courage to start a blog. I had myraid reasons to start a blog, and I have been planning to blog for the past few years, but I guess procrastination always managed to kick in. Voila! Here we are.
 While I have taken the first step and commenced this journey, the real obstacle is maintaining consistency. I remember talking to a friend about the difficulties of starting something and investing consistent efforts.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://usmanmunara.github.io/about/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://usmanmunara.github.io/about/</guid>
+      <description>Hi! I am Usman and I am a Computing Mathematics major at the City University of Hong Kong.
+While I tinker with different spaces like Tools for Thoughts, my current research interest is in topics in Theoretical Computer Science like Quantum Information Theory and Complexity Theory. The exponential difficulty of having fault-tolerant quantum computers and the thought of possesing these powerful machines in our hands, which can not only solve some of the most complex problems we have but also simulate the universe is just intriguing to me.</description>
     </item>
     
     <item>
@@ -34,19 +44,9 @@ While I have taken the first step and commenced this journey, the real obstacle 
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://usmanmunara.github.io/about/</link>
-      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://usmanmunara.github.io/about/</guid>
-      <description>Hi! I am Usman and I am a Computing Mathematics major at the City University of Hong Kong.
-While I tinker with different spaces like Tools for Thoughts, my current research interest is in topics in Theoretical Computer Science like Quantum Information Theory and Complexity Theory. The exponential difficulty of having fault-tolerant quantum computers and the thought of possesing these powerful machines in our hands, which can not only solve some of the most complex problems we have but also simulate the universe is just intriguing to me.</description>
-    </item>
-    
-    <item>
       <title>☕</title>
       <link>https://usmanmunara.github.io/cupacoffee/</link>
-      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://usmanmunara.github.io/cupacoffee/</guid>
       <description>I am always up for a coffee in HK, so drop me an email or reach out on twitter if you are interested.
