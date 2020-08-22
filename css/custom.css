@@ -32,4 +32,13 @@ body {
     margin-right: auto !important;
 }
 
+figure {
+	text-align: center !important;
+    width: 100% ;
+}
+
+figure a {
+	border-bottom: none;
+}
+
 
