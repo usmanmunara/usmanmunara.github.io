@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Muhammad Usman Farooq</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Usman</copyright>
-    
-	<atom:link href="https://usmanmunara.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© Usman</copyright><atom:link href="https://usmanmunara.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

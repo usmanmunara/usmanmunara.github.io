@@ -1,43 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://usmanmunara.github.io/about/</loc>
-    <lastmod>2020-09-07T22:57:15+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-01-15T19:09:03+08:00</lastmod>
+  </url><url>
     <loc>https://usmanmunara.github.io/</loc>
-    <lastmod>2020-09-07T22:57:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usmanmunara.github.io/cupacoffee/</loc>
-    <lastmod>2020-09-07T22:57:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://usmanmunara.github.io/posts/helloworld/</loc>
-    <lastmod>2020-09-07T22:56:42+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-01-15T19:13:39+08:00</lastmod>
+  </url><url>
     <loc>https://usmanmunara.github.io/posts/</loc>
-    <lastmod>2020-09-07T22:56:42+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-01-15T19:13:39+08:00</lastmod>
+  </url><url>
+    <loc>https://usmanmunara.github.io/posts/qic/</loc>
+    <lastmod>2022-01-15T19:13:39+08:00</lastmod>
+  </url><url>
+    <loc>https://usmanmunara.github.io/posts/anotherblog/</loc>
+    <lastmod>2022-01-15T18:33:16+08:00</lastmod>
+  </url><url>
     <loc>https://usmanmunara.github.io/links/</loc>
-    <lastmod>2020-08-11T07:26:14+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-01-15T18:33:16+08:00</lastmod>
+  </url><url>
+    <loc>https://usmanmunara.github.io/cupacoffee/</loc>
+    <lastmod>2022-01-15T18:33:16+08:00</lastmod>
+  </url><url>
     <loc>https://usmanmunara.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://usmanmunara.github.io/tags/</loc>
   </url>
-  
 </urlset>
