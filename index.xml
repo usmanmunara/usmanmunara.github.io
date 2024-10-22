@@ -14,8 +14,7 @@
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://usmanmunara.github.io/about/</guid>
-      <description>Hi! I am Usman and I am a Mathematics major at the City University of Hong Kong (graduating soon).
-In the past I have tinkered with different spaces and still play around a lot but currently sometimes I wear the hat of a machine learning engineer/researcher with recent work in researching and deploying machine learning models for retail analytics in different malls and retail shops in Hong Kong. On Engineering/building side I have built ugly beautiful frontends (I was subsumed by the React cult), created mess on the backend (for a minute I loved graphql too), deployed insecure apps (banging my head against apache then later realizing that nginx is a better choice) and then settling for building, deploying, and researching machine learning models à la read countless papers (using my math degree eh?</description>
+      <description>Hi! I am Usman! I currently work as a quantitative/ML researcher at Bilby AI where I build ML models to understand and predict policy changes and the downstream impacts on financial markets focusing on market mispricing and trading signals. My current research stack covers everything from classical generalized linear models to fine-tuning LLMs. Before working at Bilby, I used to be a quantitative researcher at TAS Alpha where I worked on building models for binary options, order-book modelling, distributionally robust portfolio optimization, and model calibration.</description>
     </item>
     
     <item>
