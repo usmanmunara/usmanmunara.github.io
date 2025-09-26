@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Usman</copyright>
-    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://usmanmunara.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://usmanmunara.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Bacon Junction</title>
+      <link>https://usmanmunara.github.io/posts/scienceandserendipity/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://usmanmunara.github.io/posts/scienceandserendipity/</guid>
+      <description>This is just a substack repost: The Bacon Junction
+ .Say-Contact--wrapper { text-align: center; } .Say-Contact { margin: 26px 0 26px 0; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; padding: 5px 10px 5px 10px; border-bottom: 3px solid red ; border-radius: 4px; box-shadow: 0 4px 6px 5px rgba(2, 2, 2, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); } .Say-Contact  * { margin: 0 4px; } .Say-Contact--twitter  svg { margin-top: 5px; margin-bottom: -1px; }     Say hi!</description>
+    </item>
+    
     <item>
       <title>Quantum Information and communication Complexity</title>
       <link>https://usmanmunara.github.io/posts/qic/</link>

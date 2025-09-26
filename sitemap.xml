@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usmanmunara.github.io/about/</loc>
-    <lastmod>2025-09-26T14:48:45-07:00</lastmod>
-  </url><url>
     <loc>https://usmanmunara.github.io/</loc>
-    <lastmod>2022-01-15T03:13:39-08:00</lastmod>
+    <lastmod>2025-09-26T14:53:43-07:00</lastmod>
   </url><url>
     <loc>https://usmanmunara.github.io/posts/</loc>
-    <lastmod>2022-01-15T03:13:39-08:00</lastmod>
+    <lastmod>2025-09-26T14:53:43-07:00</lastmod>
+  </url><url>
+    <loc>https://usmanmunara.github.io/posts/scienceandserendipity/</loc>
+    <lastmod>2025-09-26T14:53:43-07:00</lastmod>
+  </url><url>
+    <loc>https://usmanmunara.github.io/about/</loc>
+    <lastmod>2025-09-26T14:48:45-07:00</lastmod>
   </url><url>
     <loc>https://usmanmunara.github.io/posts/qic/</loc>
     <lastmod>2022-01-15T03:13:39-08:00</lastmod>
