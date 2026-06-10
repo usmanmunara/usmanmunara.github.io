@@ -9,6 +9,16 @@
     <copyright>© Usman</copyright>
     <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usmanmunara.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://usmanmunara.github.io/about/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://usmanmunara.github.io/about/</guid>
+      <description>Hi! I am Usman! Nowadays I am tinkering at the Biopunk House in SF and looking for my next thing, open to new ideas and opportunities.
+Up until recently I co-founded and was building Tacit Machines, where we were building the compute and data infrastructure for Biology. Before that I spent time fucking around and finding out at SF Parc, where I worked on deterministic guardrails for LLMs (Runtime Monitor), using probing to make those guardrails better, alongside fine-tuning small LLMs and doing mechanistic interpretability for protein language models.</description>
+    </item>
+    
+    <item>
       <title>Lost in Translation</title>
       <link>https://usmanmunara.github.io/posts/lostintranslation/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
